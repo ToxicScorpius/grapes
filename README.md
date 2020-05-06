@@ -10,3 +10,5 @@ Paradigm Shift par HTML5 UP. Libre pour l'usage personnel et commerical sous la 
 [HTML5UP](html5up.net) | [@ajlkn](https://twitter.com/ajlkn)
 
 Lire la [licence](LICENSE.md) pour plus d'informations.
+
+Images : [Unsplash](https://unsplash.com/s/photos/grapes)

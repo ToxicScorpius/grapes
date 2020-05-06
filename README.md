@@ -1,7 +1,7 @@
 Un site sur les raisins.
 
 <p align="center">
-  <a href="acceuil.html"> Acceuil </a>
+  <a href="accueil.html"> Acceuil </a>
 </p>
 
 # Remerciements
